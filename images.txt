@@ -1,5 +1,5 @@
 mysql:8.4.10
 redis:8.8.0
 sungyism/tengine:latest
-bellsoft/liberica-openjdk-rocky:21.0.11-cds
+FROM bellsoft/liberica-openjdk-rocky:21.0.12-cds
 pgsty/minio:RELEASE.2026-06-18T00-00-00Z
