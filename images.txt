@@ -3,4 +3,5 @@ redis:8.8.0
 sungyism/tengine:latest
 bellsoft/liberica-openjdk-rocky:21.0.12-cds
 pgsty/minio:RELEASE.2026-06-18T00-00-00Z
-workbuddy2api:latest
+golang:1.23-alpine
+alpine:3.20
